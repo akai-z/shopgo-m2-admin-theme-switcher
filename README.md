@@ -1,5 +1,5 @@
-Admin Theme Switcher
-====================
+Admin Theme Switcher `[UNMAINTAINED]`
+=====================================
 
 #### Contents
 *   <a href="#syn">Synopsis</a>
