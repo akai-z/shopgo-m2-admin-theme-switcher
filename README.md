@@ -1,6 +1,8 @@
 Admin Theme Switcher `[UNMAINTAINED]`
 =====================================
 
+## `Latest code can be found in develop branch.`
+
 #### Contents
 *   <a href="#syn">Synopsis</a>
 *   <a href="#over">Overview</a>
